@@ -1,8 +1,10 @@
-# <img align="center" alt="Kauan-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> Kauan Randall 
+# Kauan Randall 
 
-**`Data & Operations Specialist focused on solving complex logistics and business problems through data, optimization, and scalable systems.`**
+**`Data & Operations Specialist building optimization and data-driven systems to solve complex logistics and business problems at scale.`**
 
-I have experience building end-to-end solutions, including optimization engines, machine learning models, and automated data pipelines. My work is centered around improving operational efficiency, reducing costs, and enabling better decision-making.
+I design and build end-to-end solutions, including optimization engines, machine learning models, and automated data pipelines — focused on improving efficiency, reducing costs, and enabling better decision-making.
+
+💡 Experience building optimization systems generating real-world impact (e.g., cost reduction, efficiency gains, large-scale planning).
 
 🚀 What I care about:
 - Solving real business problems with data  
@@ -11,15 +13,24 @@ I have experience building end-to-end solutions, including optimization engines,
 
 🔍 Currently exploring:
 Optimization, Decision Science, and Data Engineering in logistics
+
+📌 Featured Project:  
+[DominaRoute](#) — Logistics routing & optimization engine
+
+<img align="center" alt="Kauan-LinkedIn" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">  LinkedIn: https://linkedin.com/in/kauanrandall
+
 ##
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Kauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kauan-Np" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Kauan-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Kauan-Scikit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
 </div>
+          
+##
 
 ### 📊 Estatísticas
 <p>
