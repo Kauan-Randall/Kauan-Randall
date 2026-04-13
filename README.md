@@ -32,7 +32,7 @@ Optimization, Decision Science, and Data Engineering in logistics
           
 ##
 
-### 📊 Estatísticas
+### 📊 Statistics
 <p>
   <img 
     align="left" 
